@@ -29,16 +29,16 @@ export default class About extends Component {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a nisi
               quam. Sed placerat est at enim rhoncus, in malesuada lacus mollis.
               Pellentesque maximus sagittis libero consequat vehicula. Integer
-              quam neque, consectetur eu arcu nec, maximus fringilla. Phasellus
-              vitae nibh sem. In pretium pretium justo in rutrum. Etiam ipsum
-              lacus, porta convallis lacinia vel, venenatis eget leo. Nunc
-              ligula turpis, pellentesque hendrerit laoreet nec, condimentum vel
-              quam. Nullam commodo molestie volutpat. Proin iaculis ex sit amet
-              tristique congue. Praesent eu efficitur magna. Vivamus varius odio
-              enim, nec sollicitudin mauris rhoncus porta. Cras et orci sit amet
-              lorem eleifend viverra. Vivamus vitae magna id nibh eleifend
-              faucibus sit amet non dui. Mauris eu ipsum vestibulum metus
-              aliquet sollicitudin.
+              quam neque, consectetur eu arcu nec, maximus fringilla velit.
+              Phasellus vitae nibh sem. In pretium pretium justo in rutrum.
+              Etiam ipsum lacus, porta convallis lacinia vel, venenatis eget
+              leo. Nunc ligula turpis, pellentesque hendrerit laoreet nec,
+              condimentum vel quam. Nullam commodo molestie volutpat. Proin
+              iaculis ex sit amet tristique congue. Praesent eu efficitur magna.
+              Vivamus varius odio enim, nec sollicitudin mauris rhoncus porta.
+              Cras et orci sit amet lorem eleifend viverra. Vivamus vitae magna
+              id nibh eleifend faucibus sit amet non dui. Mauris eu ipsum
+              vestibulum metus aliquet sollicitudin.
             </p>
             <p>
               Donec in orci nec nisl iaculis euismod sit amet a justo.
