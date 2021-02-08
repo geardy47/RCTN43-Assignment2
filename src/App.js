@@ -16,6 +16,27 @@ import Routes from './router/routes';
 const { Header, Content, Footer, Sider } = Layout;
 const { SubMenu } = Menu;
 
+const dataAwards = [
+  {
+    title: 'Title 1',
+  },
+  {
+    title: 'Title 2',
+  },
+  {
+    title: 'Title 3',
+  },
+  {
+    title: 'Title 4',
+  },
+  {
+    title: 'Title 5',
+  },
+  {
+    title: 'Title 6',
+  },
+];
+
 class App extends Component {
   state = {
     collapsed: false,
